@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 from spotipy.oauth2 import SpotifyOAuth
 
 
-def poll_spotify(cloud_event):
+def poll_spotify():
+
 
 	scope = ["user-library-read", "playlist-modify-public", "playlist-modify-private"]
 	load_dotenv()
