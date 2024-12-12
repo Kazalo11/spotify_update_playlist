@@ -1,0 +1,48 @@
+[
+  {
+    "collaborative": "False",
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1abA3yJYE9ob4ixxN6ufC5"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1abA3yJYE9ob4ixxN6ufC5",
+    "id": "1abA3yJYE9ob4ixxN6ufC5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e02b5e99d6177971707e6cd04f5ab67616d00001e02e08b1250db5f75643f1508c9ab67616d00001e02fb11b9cceabfa9a40ba3f720ab67616d00001e02fc6eef9b111d87e57b4b10cc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e02b5e99d6177971707e6cd04f5ab67616d00001e02e08b1250db5f75643f1508c9ab67616d00001e02fb11b9cceabfa9a40ba3f720ab67616d00001e02fc6eef9b111d87e57b4b10cc",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e02b5e99d6177971707e6cd04f5ab67616d00001e02e08b1250db5f75643f1508c9ab67616d00001e02fb11b9cceabfa9a40ba3f720ab67616d00001e02fc6eef9b111d87e57b4b10cc",
+        "width": 60
+      }
+    ],
+    "name": "Dec 24",
+    "owner": {
+      "display_name": "Kazo11",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/18tta2lvd65imwx89d7mqr2sv"
+      },
+      "href": "https://api.spotify.com/v1/users/18tta2lvd65imwx89d7mqr2sv",
+      "id": "18tta2lvd65imwx89d7mqr2sv",
+      "type": "user",
+      "uri": "spotify:user:18tta2lvd65imwx89d7mqr2sv"
+    },
+    "primary_color": "None",
+    "public": "True",
+    "snapshot_id": "AAAACu31EZ5FFYczPF5Q66wqm629v8aI",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1abA3yJYE9ob4ixxN6ufC5/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1abA3yJYE9ob4ixxN6ufC5"
+  }
+]
